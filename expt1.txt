@@ -1,0 +1,3 @@
+this is my first project of devops lab
+i am beginning to understand git
+this text was added while in the feature branch
